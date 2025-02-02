@@ -244,11 +244,12 @@ a:hover{
   #description {
     width: 50%;
     padding-right: 8px;
-    font-size: 1.25rem;
+    font-size: 17px;
   }
   
   #team {
     width: 50%;
+    border-radius: 12px;
   }
 
   #jobs {
